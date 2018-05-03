@@ -1,0 +1,9 @@
+[package]
+name = "rustflix"
+version = "0.1.0"
+authors = ["Mona Lisa <halvor98@outlook.com>"]
+
+[dependencies]
+base64 = "*"
+ws = "*"
+time = "*"
